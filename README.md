@@ -11,6 +11,7 @@ It includes:
 3. Embeded SVG -> SVG Image Link: reverts the action of the previous extension.
 
 This set of extensions might be particularly useful if one needs to work with linked SVGs while having the need for snapping.
+These extensions where originally designed to help with [The Pluvionauts](https://pluvionauts.github.io/), a Free(Libre) open board game project.
 
 ## How it works
 
