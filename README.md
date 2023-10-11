@@ -25,8 +25,8 @@ Just drop the `*.inx` and `*.py` files in your extensions folder (usually `~/.co
 
 ## Usage
 
-Before applying these extensions, SVG links must be imported (**File menu > Import...**) using the **Link the SVG file in an image tag**.
-The extensions can then be found in the **Extensions menu > Pluvionauts > ...**.
+Before applying these extensions, SVG links must be imported (`File menu > Import...`) using the **Link the SVG file in an image tag** option.
+The extensions can then be found in the `Extensions menu > The Pluvionauts` menu.
 
 License
 -------
