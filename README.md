@@ -1,6 +1,6 @@
 # Inkscape Extensions to Manage Image Links
 
-**Even though the extensions might be usable, everything is still work in progress.**
+**NOTE: Even though the extensions might be usable, everything is still work in progress.**
 
 Set of basic extensions to manage image links within Inkscape.
 
