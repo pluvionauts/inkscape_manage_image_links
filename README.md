@@ -30,5 +30,5 @@ The extensions can then be found in the **Extensions menu > Pluvionauts > ...**.
 License
 -------
 
-Most of the Open Image Links extension is based on the Ink Dbus extension by and is therefore under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
+Most of the Open Image Links extension is based on the [Ink Dbus](https://gitlab.com/inklinea/ink-dbus) extension by Matt Cottam and is therefore under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
 The rest is licensed under the [MIT license](LICENSE).
